@@ -1,6 +1,10 @@
 # Twitter API Keys
 OAuth.json
 
+# Debug Test Folder
+debug/
+debug.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
