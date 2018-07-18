@@ -1,0 +1,2 @@
+# GetTweetsOfSpecifiedUser
+指定したユーザーのツイートを取得するモジュール
